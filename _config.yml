@@ -54,7 +54,7 @@ staging: https://mindef-digitaliti-staging.netlify.app
 prod: https://mindef-digitaliti-prod.netlify.app
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: true
+is_government: false
 google_analytics: ""
 google_analytics_ga4: ""
 linkedin-insights: ""
