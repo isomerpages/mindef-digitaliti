@@ -9,22 +9,19 @@ sections:
   - hero:
       title: 5 SIR
       subtitle: 20th Mono
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Activities
-          description: Important highlight A is important
-          url: https://google.com
+          description: Across 4 sectors
+          url: /activities
+        - title: Programme
+          description: Throughout the day
+          url: /programme
         - title: Cookhouse Menu
-          description: Page A is important too
-          url: /privacy/
+          description: For lunch
+          url: /cookhouse-menu
       background: /images/353665779_162825226791311_7083707959312560250_n.jpg
   - infobar:
       title: Open House 2023
       subtitle: Event Details
       description: "Date: 21 July | Time: 0800-1700hrs | Location: Kranji Camp 3"
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
