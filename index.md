@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: 5 SIR 20th Mono Open House 2023
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
