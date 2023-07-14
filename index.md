@@ -18,6 +18,7 @@ sections:
         - title: Cookhouse Menu
           description: Page A is important too
           url: /privacy/
+      background: /images/353665779_162825226791311_7083707959312560250_n.jpg
   - infobar:
       title: Infobar title
       subtitle: Subtitle
