@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: 5 SIR
-      subtitle: 20th Mono
       key_highlights:
         - title: Activities
           description: Across 4 sectors
@@ -19,7 +17,7 @@ sections:
         - title: Cookhouse Menu
           description: For lunch
           url: /cookhouse-menu
-      background: /images/353665779_162825226791311_7083707959312560250_n.jpg
+      background: /images/311867743_196835912798287_5856681171250906269_n.jpg
   - infobar:
       title: Open House 2023
       subtitle: Event Details
