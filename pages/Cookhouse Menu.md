@@ -3,7 +3,7 @@ title: Cookhouse Menu
 permalink: /cookhouse-menu/
 description: ""
 ---
-# Non-muslim
+# Non-Muslim
 **Bak Kuh Teh Set**
 
 ![](/images/singapore-bak-kut-teh-meat-bone-tea-soup.jpg)
