@@ -3,7 +3,7 @@ title: Programme
 permalink: /programme/
 description: ""
 ---
-# Wolf Coy
+# 🔵 Wolf Coy
 
 
 | Time (hrs) | Activity |
@@ -23,7 +23,7 @@ description: ""
 | 1445 | Express Interest Form     |
 | 1500 | Commence Dispersal Ops to MRT     |
 
-# Ulysses Coy
+# 🔴 Ulysses Coy
 
 
 | Time (hrs) | Activity |
@@ -43,7 +43,7 @@ description: ""
 | 1530 | Express Interest Form     |
 | 1545 | Commence Dispersal Ops to MRT     |
 
-# Viper Coy
+# 🟢 Viper Coy
 
 
 | Time (hrs) | Activity |
@@ -63,7 +63,7 @@ description: ""
 | 1545 | Express Interest Form     |
 | 1615 | Commence Dispersal Ops to MRT     |
 
-# Taurus Coy
+# 🟡 Taurus Coy
 
 
 | Time (hrs) | Activity |
