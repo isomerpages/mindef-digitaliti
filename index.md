@@ -18,6 +18,7 @@ sections:
           description: For lunch
           url: /cookhouse-menu
       background: /images/311867743_196835912798287_5856681171250906269_n.jpg
+      title: 5 SIR 20th Mono Open House
   - infobar:
       title: Open House 2023
       subtitle: Event Details
