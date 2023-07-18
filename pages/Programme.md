@@ -3,14 +3,13 @@ title: Programme
 permalink: /programme/
 description: ""
 ---
-# 🔵 Wolf Coy
-
+# 🟡 Taurus Coy
 
 | Time (hrs) | Activity |
 | -------- | -------- |
 | 0745 | Movement to TFT     |
 | 0800 | Ferry to SFT     |
-| 0818 | Loading of Buses     |
+| 0815 | Loading of Buses     |
 | 0830 | Bus to KC3     |
 | 1000 | Unloading of Buses     |
 | 1015 | OC Opening Address     |
@@ -25,7 +24,6 @@ description: ""
 
 # 🔴 Ulysses Coy
 
-
 | Time (hrs) | Activity |
 | -------- | -------- |
 | 0830 | Movement to TFT     |
@@ -36,15 +34,14 @@ description: ""
 | 1100 | OC Opening Address     |
 | 1115 | Sector A     |
 | 1215 | Lunch     |
-| 1300 | Sector D     |
+| 1300 | Sector B     |
 | 1345 | Sector C     |
-| 1430 | Sector B     |
+| 1430 | Sector D     |
 | 1515 | CO and RSM Engagement     |
 | 1530 | Express Interest Form     |
 | 1545 | Commence Dispersal Ops to MRT     |
 
 # 🟢 Viper Coy
-
 
 | Time (hrs) | Activity |
 | -------- | -------- |
@@ -54,17 +51,16 @@ description: ""
 | 1000 | Bus to KC3     |
 | 1100 | Unloading of Buses     |
 | 1115 | OC Opening Address     |
-| 1130 | Sector B     |
-| 1215 | Sector C     |
-| 1300 | Lunch     |
-| 1345 | Sector A     |
+| 1130 | Sector A     |
+| 1230 | Lunch     |
+| 1315 | Sector B     |
+| 1400 | Sector C     |
 | 1445 | Sector D     |
 | 1530 | CO and RSM Engagement     |
 | 1545 | Express Interest Form     |
-| 1615 | Commence Dispersal Ops to MRT     |
+| 1600 | Commence Dispersal Ops to MRT     |
 
-# 🟡 Taurus Coy
-
+# 🔵 Wolf Coy
 
 | Time (hrs) | Activity |
 | -------- | -------- |
