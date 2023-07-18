@@ -3,16 +3,43 @@ title: FAQs
 permalink: /faq/
 description: ""
 ---
-1. What is Kranji Camp 3 address?  
-    Below is the address for Kranji Camp 3:   
-    151 Choa Chu Kang Way, Western Water, Singapore 688248
-2. Can my parents pick me up from Kranji Camp 3?    
-    Yes, they will be able to pick you up outside of Kranji Camp 3,  Guard Room.
-3. Is there a map from Kranji camp 3 that we can take a look at?    
-    Yes, the map can be found [HERE](https://d3m9tmhm9d1c6q.cloudfront.net).
-4. If we are lost in Kranji Camp 3, 5 SIR compound who do we look for?    
-    Immediately call your respective section commanders & share with them your live location so that they can come to you as soon as possible.
-5. Are we allowed to dress down to civilian attire upon booking out?    
-    No, all recruits are not allowed to book out in civilian attire.
-6. Who do I look for if a certain station piqued my interest?    
-    Look for the respective stations ICs and ask them the question that you would like to ask.
+**Question**: What is Kranji Camp 3 Address?  
+  
+**Answer**: 151 Choa Chu Kang Way, Western Water, Singapore 688248    
+  
+**Question**: Can my parents pick me up from Kranji Camp 3?  
+  
+**Answer**: Yes! Buses will make a stop at Kranji Camp 3 Guard Room, before heading to Yew Tee MRT.  
+  
+**Question**: Will we be allowed to take photos in during the Open House?  
+  
+**Answer**: There will be 2 designated photo moments where you will be able to use your handphones to take photos. They will be at Sector B - Vehicle Static Display! Look for the Station ICs on the day for more information!  
+Alternatively, an Instant Photo Printing Booth will be in Sector D! Get your photo taken and printed with your buddies and mates!  
+ 
+**Question**: Are we allowed to dress down to civilian attire upon booking out?  
+  
+**Answer**: Recruits will book out with their Smart 4, Jockey Cap and Assault Bag (inclusive of their essentials).  
+  
+**Question**: Who do I look for if certain station piqued my interest?  
+  
+**Answer**: Each display booth will be manned by a Commander! Speak to the respective Commander to find out more! You will also be allowed to express interest via the printed QR code at the respective booths!  
+  
+**Question**:. Can we post our Open House visit on Social Media Platforms (Instagram, TikTok etc)?  
+  
+**Answer**: You are not allowed to take photos and videos during your visit. Only photos will be allowed at Sector B - Vehicle Static Display!  
+  
+**Question**: Will lunch be catered for?  
+  
+**Answer**: Yes! Lunch has been catered for. Look at our selected Cookhouse Menu to find out more!  
+  
+**Question**: Will my parents be allowed to come for the visit?  
+  
+**Answer**: Unfortunately, only Recruits are invited for this Open House! Maybe the next Open House!  
+  
+**Question**: What will be our attire for the open house?  
+  
+**Answer**: You will be in your standard book out attire (Smart 4, Jockey Cap and Assault Bag with your essential items)!
+  
+**Question**: What time do we have to book in?  
+  
+**Answer**: Look for your respective Company Commanders to find out more!
