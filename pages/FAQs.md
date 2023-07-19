@@ -26,7 +26,7 @@ Alternatively, an Instant Photo Printing Booth will be in Sector D! Get your pho
   
 **Question**:. Can we post our Open House visit on Social Media Platforms (Instagram, TikTok etc)?  
   
-**Answer**: You are not allowed to take photos and videos during your visit. Only photos will be allowed at Sector B - Vehicle Static Display!  
+**Answer**: You are only allowed to post the photos taken at approved sites - Sector B: Vehicle Static Display.
   
 **Question**: Will lunch be catered for?  
   
