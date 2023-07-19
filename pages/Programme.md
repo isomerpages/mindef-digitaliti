@@ -7,74 +7,50 @@ description: ""
 
 | Time (hrs) | Activity |
 | -------- | -------- |
-| 0745 | Movement to TFT     |
-| 0800 | Ferry to SFT     |
-| 0815 | Loading of Buses     |
-| 0830 | Bus to KC3     |
-| 1000 | Unloading of Buses     |
-| 1015 | OC Opening Address     |
-| 1030 | Sector A     |
-| 1130 | Lunch     |
-| 1215 | Sector B     |
-| 1300 | Sector C     |
-| 1345 | Sector D     |
-| 1430 | CO and RSM Engagement     |
-| 1445 | Express Interest Form     |
-| 1500 | Commence Dispersal Ops to MRT     |
+| 0745-1015 | Movement from TFT to KC3     |
+| 1015-1030 | OC Opening Address     |
+| 1030-1130 | Sector A     |
+| 1130-1215 | Lunch     |
+| 1215-1345 | Sector B, C & D     |
+| 1430-1445 | CO and RSM Engagement     |
+| 1445-1500 | Express Interest Form     |
+| 1500-1530 | Commence Dispersal Ops to MRT     |
 
 # 🔴 Ulysses Coy
 
 | Time (hrs) | Activity |
 | -------- | -------- |
-| 0830 | Movement to TFT     |
-| 0845 | Ferry to SFT     |
-| 0900 | Loading of Buses     |
-| 0915 | Bus to KC3     |
-| 1045 | Unloading of Buses     |
-| 1100 | OC Opening Address     |
-| 1115 | Sector A     |
-| 1215 | Lunch     |
-| 1300 | Sector B     |
-| 1345 | Sector C     |
-| 1430 | Sector D     |
-| 1515 | CO and RSM Engagement     |
-| 1530 | Express Interest Form     |
-| 1545 | Commence Dispersal Ops to MRT     |
+| 0830-1100 | Movement from TFT to KC3   |
+| 1100-1115 | OC Opening Address     |
+| 1115-1215 | Sector A     |
+| 1215-1300 | Lunch     |
+| 1300-1515 | Sector B, C & D    |
+| 1515-1530 | CO and RSM Engagement     |
+| 1530-1545 | Express Interest Form     |
+| 1545-1615 | Commence Dispersal Ops to MRT     |
 
 # 🟢 Viper Coy
 
 | Time (hrs) | Activity |
 | -------- | -------- |
-| 0915 | Movement to TFT     |
-| 0930 | Ferry to SFT     |
-| 0945 | Loading of Buses     |
-| 1000 | Bus to KC3     |
-| 1100 | Unloading of Buses     |
-| 1115 | OC Opening Address     |
-| 1130 | Sector A     |
-| 1230 | Lunch     |
-| 1315 | Sector B     |
-| 1400 | Sector C     |
-| 1445 | Sector D     |
-| 1530 | CO and RSM Engagement     |
-| 1545 | Express Interest Form     |
-| 1600 | Commence Dispersal Ops to MRT     |
+| 0915-1115 | Movement from TFT to KC3   |
+| 1115-1130 | OC Opening Address     |
+| 1130-1230 | Sector A     |
+| 1230-1315 | Lunch     |
+| 1315-1530 | Sector B, C & D     |
+| 1530-1545 | CO and RSM Engagement     |
+| 1545-1600 | Express Interest Form     |
+| 1600-1630 | Commence Dispersal Ops to MRT     |
 
 # 🔵 Wolf Coy
 
 | Time (hrs) | Activity |
 | -------- | -------- |
-| 1000 | Movement to TFT     |
-| 1015 | Ferry to SFT     |
-| 1030 | Loading of Buses     |
-| 1045 | Bus to KC3     |
-| 1145 | Unloading of Buses     |
-| 1200 | OC Opening Address     |
-| 1215 | Sector A     |
-| 1315 | Lunch     |
-| 1400 | Sector B     |
-| 1445 | Sector C     |
-| 1530 | Sector D     |
-| 1615 | CO and RSM Engagement     |
-| 1630 | Express Interest Form     |
-| 1645 | Commence Dispersal Ops to MRT     |
+| 1000-1200 | Movement from TFT-KC3    |
+| 1200-1215 | OC Opening Address     |
+| 1215-1315 | Sector A     |
+| 1315-1400 | Lunch     |
+| 1400-1615 | Sector B, C & D    |
+| 1615-1630 | CO and RSM Engagement     |
+| 1630-1645 | Express Interest Form     |
+| 1645-1715 | Commence Dispersal Ops to MRT     |
