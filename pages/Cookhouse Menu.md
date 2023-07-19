@@ -11,4 +11,4 @@ description: ""
 # Muslim
 **Nasi Goreng with Satay Set**
 
-![](/images/nasi_goreng.jpg)
+![](/images/nasi%20goreng%202.jpeg)
