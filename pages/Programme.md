@@ -3,7 +3,7 @@ title: Programme
 permalink: /programme/
 description: ""
 ---
-# 🟡 Taurus Coy
+# 🟢 Viper Coy
 
 | Time (hrs) | Activity |
 | -------- | -------- |
@@ -29,7 +29,7 @@ description: ""
 |   | Express Interest Form     |
 | 1545-1615 | Commence Dispersal Ops to MRT     |
 
-# 🟢 Viper Coy
+# 🟡 Taurus Coy
 
 | Time (hrs) | Activity |
 | -------- | -------- |
