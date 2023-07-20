@@ -14,7 +14,11 @@ description: ""
 **Question**: Will we be allowed to take photos in during the Open House?  
   
 **Answer**: There will be 2 designated photo moments where you will be able to use your handphones to take photos. They will be at Sector B - Vehicle Static Display! Look for the Station ICs on the day for more information!  
-Alternatively, an Instant Photo Printing Booth will be in Sector D! Get your photo taken and printed with your buddies and mates!  
+Alternatively, an Instant Photo Printing Booth will be in Sector D! Get your photo taken and printed with your buddies and mates! 
+
+**Question**:. Can we post our Open House visit on Social Media Platforms (Instagram, TikTok etc)?
+  
+**Answer**: You are not allowed to take or post any photos or videos during the event. Unit will be taking photos via official cameras and will disseminate the photos to the respective Coylines subsequently. Those pictures will be cleared to be posted on social media.
  
 **Question**: Are we allowed to dress down to civilian attire upon booking out?  
   
@@ -22,12 +26,8 @@ Alternatively, an Instant Photo Printing Booth will be in Sector D! Get your pho
   
 **Question**: Who do I look for if certain station piqued my interest?  
   
-**Answer**: Each display booth will be manned by a Commander! Speak to the respective Commander to find out more! You will also be allowed to express interest via the printed QR code at the respective booths!  
-  
-**Question**:. Can we post our Open House visit on Social Media Platforms (Instagram, TikTok etc)?  
-  
-**Answer**: You are only allowed to post the photos taken at approved sites - Sector B: Vehicle Static Display.
-  
+**Answer**: Each display booth will be manned by a Commander! Speak to the respective Commander to find out more! You will also be allowed to express interest via the printed QR code at the respective booths!    
+
 **Question**: Will lunch be catered for?  
   
 **Answer**: Yes! Lunch has been catered for. Look at our selected Cookhouse Menu to find out more!  
