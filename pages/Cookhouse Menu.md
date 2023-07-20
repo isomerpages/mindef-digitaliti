@@ -4,11 +4,12 @@ permalink: /cookhouse-menu/
 description: ""
 ---
 # Non-Muslim
-**Bak Kuh Teh Set**
+**Western**
+![](/images/western.jpeg)
 
-![](/images/singapore-bak-kut-teh-meat-bone-tea-soup.jpg)
+**Laksa**
+![](/images/laksa%20nm.jpeg)
 
 # Muslim
 **Nasi Goreng with Satay Set**
-
 ![](/images/nasi%20goreng%202.jpeg)
