@@ -11,11 +11,6 @@ description: ""
   
 **Answer**: Yes! Buses will make a stop at Kranji Camp 3 Guard Room, before heading to Yew Tee MRT.  
   
-**Question**: Will we be allowed to take photos in during the Open House?  
-  
-**Answer**: There will be 2 designated photo moments where you will be able to use your handphones to take photos. They will be at Sector B - Vehicle Static Display! Look for the Station ICs on the day for more information!  
-Alternatively, an Instant Photo Printing Booth will be in Sector D! Get your photo taken and printed with your buddies and mates! 
-
 **Question**:. Can we post our Open House visit on Social Media Platforms (Instagram, TikTok etc)?
   
 **Answer**: You are not allowed to take or post any photos or videos during the event. Unit will be taking photos via official cameras and will disseminate the photos to the respective Coylines subsequently. Those pictures will be cleared to be posted on social media.
